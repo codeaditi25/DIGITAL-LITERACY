@@ -1,4 +1,4 @@
-VIT BHOPAL UNIVERSITY
+#VIT BHOPAL UNIVERSITY
 CSE0001 – Digital Literacy  |  Digital Literacy Portfolio
 
 README
